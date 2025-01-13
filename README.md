@@ -1,4 +1,4 @@
 # MachineLearningAIT
-Binit Khadka
-st 124783
-Informatiom Management
+Binit Khadka |
+st 124783 |
+Informatiom Management |
